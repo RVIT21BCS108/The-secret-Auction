@@ -1,1 +1,2 @@
-# The-secret-Auction
+The Auction Bidding project is a Python-based console application that simulates a simple auction system. Users can enter their names and bids, and the program records these inputs in a dictionary. The application continues to prompt for new bids until no more bidders are present. It then determines the highest bid and announces the winner. The console is cleared after each bid using the clear() function to ensure privacy. This project provides a hands-on experience with dictionary operations and basic input handling in Python.
+
